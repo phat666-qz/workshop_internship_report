@@ -1,6 +1,6 @@
 ---
 title: "Bản đề xuất"
-date: 2026-07-08
+date: 2024-01-01
 weight: 2
 chapter: false
 pre: " <b> 2. </b> "
@@ -107,7 +107,6 @@ Kiến trúc Examora được chia thành các nhóm chính: frontend hosting, a
     *   **Tháng 4:** Tìm hiểu lý thuyết và thực hành theo các tài liệu hướng dẫn về dịch vụ đám mây của AWS.
     *   **Tháng 5:** Cùng nhóm KQPSV lên kế hoạch chi tiết, phân tích yêu cầu, thiết kế kiến trúc hệ thống (AWS Architecture) cho dự án Examora.
     *   **Tháng 6 - 7:** Tiến hành triển khai hạ tầng Serverless, kiểm thử hệ thống tích hợp (E2E), tối ưu hóa tài nguyên và hoàn thiện báo cáo dự án.
-
 
 ### 6. Ước tính ngân sách
 Có thể xem chi phí trên AWS Pricing Calculator theo file estimate đã xuất.

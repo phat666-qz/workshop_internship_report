@@ -1,6 +1,6 @@
 ---
 title : "Clean up resources"
-date: 2026-07-08
+date : 2026-07-05 
 weight : 10 
 chapter : false
 pre : " <b> 5.10. </b> "

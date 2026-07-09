@@ -1,6 +1,6 @@
 ---
 title : "Tạo Cognito Groups cho Examora"
-date: 2026-07-08
+date : 2026-07-05 
 weight : 3
 chapter : false
 pre : " <b> 5.4.5. </b> "

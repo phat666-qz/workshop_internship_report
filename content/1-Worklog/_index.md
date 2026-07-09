@@ -1,22 +1,33 @@
 ---
-title: "Worklog"
-date: 2026-07-08
-weight: 1
-chapter: false
-pre: " <b> 1. </b> "
+Title: "Work Log"
+Date: 2026-07-05
+Weight: 1
+Chapter: False
+Pre: "<b>1.</b>"
 ---
 
-Detailed worklogs for each week of the internship:
+Below is my worklog, completed over approximately 3 months (during my internship), with the weekly content as follows:
 
-*   **Week 1:** [Onboarding, Team Introduction, and AWS Cloud Basics](1.1-Week1/)
-*   **Week 2:** [Practicing with AWS Console/CLI, IAM Policies, and Foundation Services](1.2-Week2/)
-*   **Week 3:** [Designing AWS Architecture Diagrams and Integrating API Gateway with Lambda](1.3-Week3/)
-*   **Week 4:** [Managing AWS Resources with Resource Groups, Defining IAM Boundaries, and Budget Analysis](1.4-Week4/)
-*   **Week 5:** [Exploring User Authentication with Amazon Cognito and Email Sending with Amazon SES](1.5-Week5/)
-*   **Week 6:** [Designing REST APIs with API Gateway, Writing Lambda Functions, and S3 Presigned URLs](1.6-Week6/)
-*   **Week 7:** [Studying Asynchronous Serverless Architectures, SQS Queue Triggers, and Finalizing Project Scope](1.7-Week7/)
-*   **Week 8:** [Architecture Design and MVP Scope Definition for Examora Serverless Project](1.8-Week8/)
-*   **Week 9:** [Implementing User Authentication (Cognito + SES) and Hosting Express Backend on AWS Lambda](1.9-Week9/)
-*   **Week 10:** [Building S3 Direct Upload Flow and Automating Question Import from Word Documents](1.10-Week10/)
-*   **Week 11:** [Decoupling Submission Flow with Amazon SQS and Async Lambda Grading Worker](1.11-Week11/)
-*   **Week 12:** [Deploying Frontend to AWS Amplify, Mapping Custom Domain, and Compiling Internship Report](1.12-Week12/)
+**Week 1:** [Getting acquainted with AWS services and creating an AWS account](1.1-Week1/)
+
+**Week 2:** [Learning IAM and AWS cost management](1.2-Week2/)
+
+**Week 3:** [Learning about AWS Internal Networks (VPC)](1.3-Week3/)
+
+**Week 4:** [Basic Storage and Hosting with S3](1.4-Week4/)
+
+**Week 5:** [Learning about EC2 Virtual Servers and RDS Databases](1.5-Week5/)
+
+**Week 6:** [Getting acquainted with Serverless, AWS Lambda, and API Gateway](1.6-Week6/)
+
+**Week 7:** [Learning about NoSQL and user management with Cognito](1.7-Week7/)
+
+**Week 8:** [Frontend interaction, understanding AWS security and monitoring](1.8-Week8/)
+
+**Week 9:** [Developing the architecture and deploying the platform for the Project](1.9-Week9/)
+
+**Week 10:** [Deploying the Project](1.10-Week10/)
+
+**Week 11:** [Deploying the Project](1.11-Week11/)
+
+**Week 12:** [Deploying the Project](1.12-Week12/)

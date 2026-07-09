@@ -1,6 +1,6 @@
 ---
 title : "Test API Gateway Invoke URLs"
-date: 2026-07-08
+date : 2026-07-05 
 weight : 2
 chapter : false
 pre : " <b> 5.6.2. </b> "

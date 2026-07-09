@@ -1,74 +1,120 @@
 ---
 title: "Event 2"
-date: 2026-07-08
+date: 2026-07-05
 weight: 1
 chapter: false
 pre: " <b> 4.2. </b> "
 ---
-# Event Notes: Event Meet up 30/05
+# Report on “Event Meet up 30/05”
 
-### Session Goals
+### Event Objectives
 
-- Exploring modern, risk-free tools to learn and practice AWS.
-- Getting updates on DevOps methodologies and their critical role in product stability.
-- Analyzing AI integration into traditional applications.
-- Improving personal development skills, including confidence and overcoming procrastination.
+- Develop personal thinking and skills by understanding the causes of procrastination and building self-confidence.
+- Update knowledge on DevOps, AWS, and modern learning methods.
+- Introduce practical applications of AI in various fields.
+- Share practical experience from Hackathon and development direction in the Cloud and AI fields.
 
 ### Speaker List
 
-- **Huynh Thai Linh** - Level Up Your AWS Skills with Cloud Quest and Floci
-- **The Ballers (Huynh An Khuong, Mai Quoc Anh, Nguyen Tran Minh Quan)** - Hackathon
-- **Nguyen Thi Quynh Nhu** - Why We Always Need Confidence
-- **Nghia Tran** - AI Applications - Dai Viet Astrology
-- **Tran Minh Quan** - The Hidden Iceberg of a Project: DevOps Before Disaster
 - **Khac Uy Pham** - The Iceberg of Procrastination
+- **Tran Minh Quan** - The Hidden Iceberg of a Project: DevOps Before Disaster
+- **Anh Nghia** - AI Applications - Dai Viet Astrology
+- **Nguyen Thi Quynh Nhu** - Why We Always Need Confidence
+- **The Ballers** - Hackathon
+- **Huynh Thai Linh** - Level Up Your AWS Skills with Cloud Quest and Floci
 
 ### Featured Content
 
-#### Level Up Your AWS Skills with Cloud Quest & Floci
+#### The Iceberg of Procrastination
 
-- **AWS Cloud Quest**: A 3D game-based learning experience in AWS Skill Builder to solve business challenges by building solutions directly on actual AWS environments through a structured path.
-- **Floci**: A local cloud emulator to develop and test core AWS services (S3, SQS, Lambda, DynamoDB, RDS) locally, removing the risk of cloud costs or misconfigurations.
-
-#### The Ballers - Hackathon Experience
-
-- First-hand accounts from The Ballers team on navigating a hackathon: battling tight deadlines, debugging through the night, and keeping the team's spirit up.
-- These stories make clear that building a real product demands more than just coding skills — it takes situational awareness and mental resilience too.
+- Analyzes the nature of procrastination from a psychological perspective.
+- Shows that procrastination often stems from internal fears and pressures, not simply a lack of motivation.
+- Helps participants identify the causes and gradually improve their learning and work performance.
 
 #### Why We Always Need Confidence
 
-- Highlights the critical role confidence plays in grabbing career opportunities, especially when you're fresh out of school and still proving yourself.
-- Shares practical methods to build confidence through knowledge accumulation and the habit of speaking up, asking questions, and presenting ideas.
-
-#### AI Applications - Dai Viet Astrology
-
-- Showcasing an AI-driven approach to interpret traditional astrology and the roadmap to migrate its tech stack to AWS.
+- Emphasizes the role of self-confidence in learning, work, and career development.
+- Sharing methods to build self-confidence through accumulating knowledge, experience, and daring to challenge oneself.
+- Encouraging young people to proactively seize opportunities instead of fearing failure.
 
 #### DevOps Before Disaster
 
-- Examines why DevOps is the "hidden iceberg" of a software project — often ignored until something breaks at the worst possible time.
-- Breaks down how a proper DevOps pipeline automates testing, stabilizes deployments, and catches issues before they hit production.
+- Introducing the role of **DevOps** in ensuring system stability and quality.
+- Analyzing how DevOps helps minimize risks and optimize software development processes.
+- Emphasizing the importance of automation and efficient workflows in technology projects.
 
-#### The Iceberg of Procrastination
+#### Level Up Your AWS Skills with Cloud Quest & Floci
 
-- Digs into the fear and psychological pressure that usually hides beneath the surface of procrastination behavior.
-- Offers a few practical approaches to recognizing the root cause and gradually breaking the procrastination habit in both studies and work.
+- Introducing **AWS Cloud Quest** and **Floci** as modern learning platforms for AWS.
+- Learning AWS through simulation and hands-on practice instead of just theory.
+- Supporting learners in building a clear roadmap to improve skills and prepare for AWS certifications.
 
-### Key Takeaways
+#### AI Applications
 
-- **Mindset & Personal Skills**: Embracing a growth mindset to combat procrastination and build genuine self-confidence; prioritizing continuous learning via simulated platforms.
-- **Architecture & Engineering**: Understanding automatic deployment workflows (DevOps) and incorporating AI capabilities within cloud environments for business needs.
+- Introduction to the **Dai Viet Astrology** model, illustrating how AI is applied to traditional fields.
+- Sharing practical perspectives on applying these principles to other fields and how to handle problems when encountering difficulties.
 
-### Action Plan & Future Direction
+#### Hackathon Experience
 
-- Practicing AWS using Cloud Quest and Floci to prepare for certifications.
-- Applying DevOps concepts to personal coding projects to optimize delivery.
-- Organizing daily schedules to manage tasks efficiently and avoid procrastination.
+- Sharing experiences from the **The Ballers** team participating in a Hackathon, including product development, bug fixing, and working under time pressure.
+- Providing a practical perspective on problem-solving skills and teamwork in a technology environment.
+
+### What You Learned
+
+#### Design Thinking
+
+- **Growth mindset**: Understanding that overcoming procrastination and building confidence are fundamental to long-term growth.
+- **Continuous learning**: Actively learning and updating knowledge through modern platforms such as Cloud Quest and Floci.
+- Always combining professional and personal skills for holistic development in the technology field.
+
+#### Engineering Architecture
+
+- Understand the role of **DevOps** in improving system quality and stability.
+- Learn how to leverage **Cloud Quest** and **Floci** to effectively hone AWS skills.
+- Gain insight into real-world AI applications in life and business.
+- Gain a deeper understanding of product development and troubleshooting processes in Hackathon competitions.
+
+#### Career Development
+
+- Develop a phased AWS learning plan to pursue professional certifications.
+- Recognize the importance of balancing technical knowledge, soft skills, and a self-development mindset.
+- Learn how to adapt to a constantly changing technological environment through continuous learning and practical experience.
+
+### Application in Work
+
+- **Use Cloud Quest and Floci** to build an AWS learning roadmap and prepare for certification exams.
+- Applying DevOps thinking to personal projects to improve software development and deployment processes.
+- Researching AI applications in real-world problems in studies and work.
+- Developing time management skills to reduce procrastination and improve work efficiency.
+- Actively participating in Hackathon competitions to gain practical experience and develop teamwork skills.
+
+### Event Experience
+
+Participating in the **Meet-up Event on May 30th** was a very meaningful experience, helping me realize that to thrive in the technology field requires not only specialized knowledge but also the right mindset, soft skills, and the ability to learn continuously. Some notable experiences:
+
+#### Learning from experienced speakers
+- Speakers shared many practical perspectives on **personal development, DevOps, AI, and AWS**.
+- The content is presented in a relatable way with many real-world examples, helping participants easily relate it to their own learning and work processes.
+
+#### Accessing Modern Technologies
+- Learn about **AWS Cloud Quest and Floci**, two platforms that make learning AWS more intuitive and practical.
+- Understand the benefits of combining theoretical learning with simulation models to enhance learning effectiveness.
+
+#### Real-World Experience
+- The insights from **The Ballers** helped me better understand the pressure, teamwork, and the process of completing a product in a short time.
+- The topic of **Dai Viet Astrology** showed how AI can be creatively applied to many traditional fields, broadening my perspective on the potential of the technology.
+
+#### Networking and Exchange
+- The event provided an opportunity to network with experts and like-minded individuals in the Cloud and AI fields.
+- Through the real-life stories of the speakers, I gained more motivation to build a clearer learning and career development path.
+
+#### Lessons Learned
+- Success in the technology field depends not only on specialized knowledge but also on self-management skills, self-confidence, and a continuous learning spirit.
+- Learning tools like **Cloud Quest** and **Floci** make learning AWS more effective and practical.
+- DevOps and AI are increasingly becoming crucial skills for modern cloud engineers.
+- Participating in community activities and hackathons is a great opportunity to gain experience, expand your network, and develop comprehensively in both professional and soft skills. 
 
 #### Some event photos
-![Picture 1](/images/event30th5/z8024126135432_e52699f8efc3e0124ae2c3ade026ac38.jpg)
-![Picture 2](/images/event30th5/z8024126166246_044898631343fe683faf39ce94c1c000.jpg)
-![Picture 3](/images/event30th5/z8024126197830_0534c904bfc5d6a18724c7f4bb991f72.jpg)
-![Picture 4](/images/event30th5/z8024126231665_ab95060a1a8e02deacf92524e2251d22.jpg)
-![Picture 5](/images/event30th5/z8024126260466_d8fd39552e0d7e320bf0236108355eea.jpg)
-![Picture 6](/images/event30th5/z8024126292858_9451a7213a6a4491b4ad5452b668871a.jpg)
+![Picture 1](/images/event21.jpg)
+![Picture 2](/images/event22.jpg)
+![Picture 3](/images/event23.jpg)

@@ -1,6 +1,6 @@
 ---
 title: "Internship Report"
-date: 2026-07-08
+date: 2026-07-05
 weight: 1
 chapter: false
 ---
@@ -8,16 +8,17 @@ chapter: false
     
 # Internship Report
 
+
 ### Student Information:
-&emsp; **Full Name:** Do Quoc Viet
+&emsp; **Full Name:** Vo Xuan Phat
 
-&emsp; **Phone Number:** 0392343904 
+&emsp; **Phone Number:** 0896403360
 
-&emsp; **Email:** vietvuive2k4@gmail.com
+&emsp; **Email:** phatvo.soc@gmail.com
 
-&emsp; **University:** HUTECH University
+&emsp; **University:** Ho Chi Minh City University of Technology
 
-&emsp; **Major:** Information Technology    
+&emsp; **Major:** Information Technology
 
 &emsp; **Class:** AWS042026
 
@@ -27,7 +28,8 @@ chapter: false
 
 &emsp; **Internship Duration:** From 17/04/2026 to 10/07/2026
 
-![Your profile picture](/images/myAVt.jpg)
+![Your profile picture](/images/avt.png)
+
 
 ### Report Content
 

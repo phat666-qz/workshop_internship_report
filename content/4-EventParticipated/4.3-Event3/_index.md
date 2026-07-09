@@ -1,74 +1,124 @@
 ---
-title: "Event 3"
-date: 2026-07-08
-weight: 1
-chapter: false
-pre: " <b> 4.3. </b> "
+Title: "Event 3"
+Date: 2026-07-05
+Weight: 1
+Chapter: False
+Pre: "<b>4.3.</b>"
+
 ---
-# Event Notes: Event Meet up 06/06
+# Report on “Event Meet-up 06/06”
 
-### Session Goals
+### Event Objectives
 
-- Understanding modern technologies including Docker containerization, GraphRAG, and AWS Neptune.
-- Learning machine learning integrations with AWS WAF for proactive firewall security.
-- Exploring real-time synchronization using AWS WebSockets for client-server architectures.
-- Gathering career migration strategies and engineering team communication tips.
+- Update on new technology trends in Cloud, AI, Containerization, and Graph Database.
+- Share practical knowledge on security on the AWS platform and Machine Learning applications.
+- Provide career development guidance from IT Helpdesk to Cloud/DevOps.
+- Enhance teamwork skills and collaboration in a technical environment.
 
 ### Speaker List
 
-- **Bao Huynh** - Docker - A containerization Technology
-- **Le Hoang Gia Dai** - Combining AWS WAF with Machine Learning for Cyber Attack
-- **Nguyen Quoc Bao** - Multiplayer in the Cloud - Connecting Godot Clients with AWS WebSockets
-- **Truong Phuoc** - The Art of Effective Teamwork
-- **Viet Phat** - GraphRAG
-- **Vinh Tran** - Form IT Helpdesk to Senior Sysadmin
+- **Bao Huynh** - Docker - A Containerization Technology
+- **Le Hoang Gia Dai** - AWS WAF Combined with Machine Learning
+- **Nguyen Quoc Bao** - Multiplayer in the Cloud
+- **Truong Phuoc** - The Art of effective teamwork
+- **Viet Phat** - GraphRAG with AWS Neptune
+- **Tran Trung Vinh** - From IT Helpdesk to Senior Sysadmin
 
 ### Featured Content
 
 #### Docker - Containerization Technology
 
-- Packing an application together with its runtime environment into a portable container so it runs consistently across any machine or environment.
-- Eliminates the classic "works on my machine" problem and streamlines the test and deployment pipeline in DevOps workflows.
+- Introduction to **Docker** technology and the application containerization model.
+- Packaging applications along with the entire runtime environment to ensure consistency during deployment.
+- Supporting development, testing, and deployment across multiple environments.
+- Increasing scalability and optimizing DevOps processes.
 
 #### AWS WAF Combined with Machine Learning
 
-- Harnessing ML capabilities with AWS WAF to detect anomalous traffic patterns and prevent advanced security threats.
-- Demonstrates how to configure smart WAF rules that automatically block suspicious requests without manual intervention.
+- Introducing how to combine **AWS WAF** with **Machine Learning** models to enhance security.
+- Automatically detect unusual attack patterns based on data.
+- Enhance proactive defenses for applications deployed on AWS.
+- Minimize risks against modern cyberattacks.
 
 #### Multiplayer Game Development on the Cloud
 
-- Implementing low-latency multiplayer syncing by connecting Godot game clients using AWS WebSockets.
-- Discusses the challenge of managing shared game state on the cloud when multiple players are online simultaneously, and why keeping latency low matters.
+- Build a **Multiplayer Game** system using **AWS WebSockets**.
+- Connect multiple **Godot Clients** in real time.
+- Synchronize player states with low latency.
+- Illustrate the application of Cloud technology in online game development.
 
-#### The Art of Effective Teamwork
+### GraphRAG with AWS Neptune
 
-- Crucial communication methods and collaboration principles for technical engineering teams.
-- Covers conflict resolution, clear task ownership, and ways to keep a team motivated throughout a project lifecycle.
+- Introduce **GraphRAG (Graph Retrieval-Augmented Generation)**.
+- Build a **Graph Knowledge Base** using the **AWS Neptune** service.
+- Leverage graph data to improve information retrieval quality for AI.
+- Extend the capabilities of traditional RAG systems using Graph Databases.
 
-#### GraphRAG with AWS Neptune
+#### Career Journey & Teamwork
 
-- Integrating graph database features of AWS Neptune to enhance context retrieval quality for AI systems.
-- Compares GraphRAG to standard RAG: by mapping entity relationships in a graph, AI responses become more accurate and context-aware.
+- Sharing the career development journey from IT Helpdesk to Senior Sysadmin and Cloud/DevOps orientation.
+- Introducing the necessary skills for development in the Cloud field.
+- Guiding effective teamwork methods in a technical environment.
+- Emphasizing the role of communication and collaboration in project implementation.
 
-#### From IT Helpdesk to Senior Sysadmin
+### What You'll Learn
 
-- A real-world career path showing the transition stages from IT support positions to Senior Sysadmin/DevOps roles.
-- Outlines a practical learning roadmap for anyone looking to pivot toward infrastructure and cloud engineering.
+#### Design Thinking
 
-### Key Takeaways
+- **Container-first mindset**: Understanding the benefits of containerizing applications from the development stage.
+- **Security-first approach**: Security should be integrated from the start rather than added after deployment.
+- Always combining Cloud, AI, and data to build modern and scalable solutions.
 
-- **Mindset & Personal Skills**: Adopting container-first and security-first development practices; realizing the value of active networking and soft skills for career growth.
-- **Architecture & Engineering**: Mastering network routing via WebSockets for real-time applications; learning GraphRAG architectures for high-fidelity AI prompt engineering.
+#### Engineering Architecture
 
-### Action Plan & Future Direction
+- Understanding the role of **Docker** in the application development and deployment process.
+- Understand how to apply **Machine Learning** to security systems through **AWS WAF**.
+- Understand how to deploy real-time applications using **AWS WebSockets**.
+- Learn about the **GraphRAG** ​​architecture and the role of **AWS Neptune** in building smarter AI systems.
 
-- Utilizing Docker to containerize personal web projects for uniform testing.
-- Researching WebSockets on AWS for real-time user notification systems.
-- Practicing structured team communication formats to increase cooperation efficiency.
+#### Career Development Pathway
+
+- Clearly understand the career development path from IT Helpdesk to Cloud/DevOps.
+- Recognize the technical and soft skills needed for long-term development.
+- Learn the importance of teamwork in technology projects.
+
+### Application in Work
+
+- **Deploy Docker** for personal projects to standardize development and deployment environments.
+- **Research AWS WAF combined with Machine Learning** to enhance the ability to detect unusual attacks.
+- **Learning about GraphRAG and AWS Neptune** to build a knowledge management system for AI applications.
+- **Using AWS WebSockets** in real-time communication tasks such as games or chat.
+- Applying teamwork methods and communication skills to improve collaboration efficiency in projects.
+
+### Event Experience
+
+Participating in the **Event Meetup 06/06/2026** was a very useful experience, helping me access many different fields from Cloud Computing, Containerization, AI, Graph Database to career development in the IT industry. Some highlights:
+
+#### Learning from experienced speakers
+- Speakers shared practical knowledge about **Docker, AWS Security, GraphRAG, Game Development, and Cloud/DevOps**.
+- The content is presented through numerous practical examples, helping participants easily visualize how to apply it to their work.
+
+#### Accessing Modern Technologies
+- Gaining a deeper understanding of application containerization with Docker and its role in DevOps.
+- Learning how **Machine Learning** enhances attack detection and prevention capabilities on **AWS WAF**.
+- Exploring **GraphRAG** ​​and **AWS Neptune**, broadening perspectives on building AI systems based on graph data.
+- Discovering the model for building **Multiplayer Games** on the AWS platform through WebSockets.
+
+#### Career Guidance and Personal Development
+- My journey from **IT Helpdesk** to **Senior Sysadmin** helped me better understand the career path in the Cloud/DevOps field.
+- Sharing insights on soft skills and teamwork helped me realize the importance of communication and collaboration in a technology environment.
+
+#### Networking and Exchange
+- Meetups provide opportunities to network with experts and like-minded individuals in the Cloud and AI fields.
+- Through these sessions, I gained more perspectives on technology trends and the skills needed for future work.
+
+#### Lessons Learned
+- Docker is a crucial platform in modern application development and deployment processes.
+- The combination of **AI, Machine Learning, and Cloud Security** will increasingly play a vital role in system protection.
+- **Graph Databases** and **GraphRAG** ​​open up new approaches to building AI systems with more efficient knowledge retrieval capabilities.
+- Besides technical knowledge, building a clear career development path and honing teamwork skills are essential for sustainable growth in the Cloud and DevOps fields.  
 
 #### Some event photos
-![Picture 1](/images/event6th6/z8024132938403_5d2fb8cfe6a6d65155fae1a8ab386723.jpg)
-![Picture 2](/images/event6th6/z8024136497270_57e4dc154ac411b848d200ac9d651398.jpg)
-![Picture 3](/images/event6th6/z8024137307666_48a8fc472edcc47afe4c515d2e8181d6.jpg)
-![Picture 4](/images/event6th6/z8024138107915_18e9446a2bcef3c611c694f76a027a9e.jpg)
-![Picture 5](/images/event6th6/z8024140624030_56b419d173ec3ce92beefa56f8ada447.jpg)
+![Picture 1](/images/event31.jpg)
+![Picture 2](/images/event32.jpg)
+![Picture 3](/images/event33.jpg)

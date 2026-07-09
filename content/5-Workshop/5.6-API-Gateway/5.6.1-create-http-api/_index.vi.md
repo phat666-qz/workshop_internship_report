@@ -1,6 +1,6 @@
 ---
 title : "Tạo HTTP API và gắn Lambda Backend"
-date: 2026-07-08
+date : 2026-07-05 
 weight : 1
 chapter : false
 pre : " <b> 5.6.1. </b> "

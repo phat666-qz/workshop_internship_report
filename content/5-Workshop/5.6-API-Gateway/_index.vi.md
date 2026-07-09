@@ -1,6 +1,6 @@
 ---
 title : "Tạo API Gateway cho Lambda Backend API"
-date: 2026-07-08
+date : 2026-07-05 
 weight : 6 
 chapter : false
 pre : " <b> 5.6. </b> "

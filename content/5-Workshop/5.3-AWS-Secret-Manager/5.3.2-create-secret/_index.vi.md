@@ -1,6 +1,6 @@
 ---
 title : "Tạo secret trong AWS Secrets Manager"
-date: 2026-07-08
+date : 2024-01-01 
 weight : 1
 chapter : false
 pre : " <b> 5.3.2. </b> "

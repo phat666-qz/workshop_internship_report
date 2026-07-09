@@ -1,76 +1,126 @@
 ---
 title: "Event 3"
-date: 2026-07-08
+date: 2026-07-05
 weight: 1
 chapter: false
 pre: " <b> 4.3. </b> "
 ---
 
 
-# Ghi chép sự kiện “Event Meet up 06/06”
+# Bài thu hoạch “Event Meet up 06/06”
 
-### Mục tiêu tham gia
+### Mục Đích Của Sự Kiện
 
-- Tìm hiểu các công nghệ mới bao gồm Containerization (Docker), GraphRAG và AWS Neptune.
-- Cập nhật phương pháp ứng dụng học máy (Machine Learning) để bảo vệ hệ thống với AWS WAF.
-- Nghiên cứu cách thiết kế ứng dụng đồng bộ thời gian thực qua AWS WebSockets.
-- Học hỏi kinh nghiệm cộng tác nhóm và hoạch định lộ trình chuyển dịch nghề nghiệp.
+- Cập nhật các xu hướng công nghệ mới trong lĩnh vực Cloud, AI, Containerization và Graph Database.
+- Chia sẻ kiến thức thực tiễn về bảo mật trên nền tảng AWS và ứng dụng Machine Learning.
+- Định hướng lộ trình phát triển nghề nghiệp từ IT Helpdesk đến Cloud/DevOps.
+- Nâng cao kỹ năng làm việc nhóm và khả năng phối hợp trong môi trường kỹ thuật.
 
 ### Danh Sách Diễn Giả
 
-- **Bảo Huỳnh** - Docker - A containerization Technology
-- **Lê Hoàng Gia Đại** - Combining AWS WAF with Machine Learning for Cyber Attack
-- **Nguyễn Quốc Bảo** - Multiplayer in the Cloud - Connecting Godot Clients with AWS WebSockets
-- **Trương Phước** - The Art of Effective Teamwork
-- **Việt Phát** - GraphRAG
-- **Vinh Trần** - Form IT Helpdesk to Senior Sysadmin
+- **Bảo Huỳnh** - Docker - A containerization technology
+- **Lê Hoàng Gia Đại** - AWS WAF kết hợp Machine Learning 
+- **Nguyễn Quốc Bảo** - Multiplayer trên Cloud
+- **Trương Phước** - Nghệ thuật làm việc nhóm hiệu quả
+- **Việt Phát** - GraphRAG với AWS Neptune
+- **Tran Trung Vinh** - Từ IT Helpdesk đến Senior Sysadmin
 
 ### Nội Dung Nổi Bật
 
 #### Docker - Containerization Technology
 
-- Đóng gói toàn bộ ứng dụng cùng môi trường chạy vào container, đảm bảo hoạt động nhất quán dù chạy trên máy nào hay môi trường nào.
-- Ưu điểm rõ rệt là giảm thiểu lỗi "works on my machine", tối ưu quy trình test và thiển khai ứng dụng trong DevOps.
+- Giới thiệu công nghệ **Docker** và mô hình container hóa ứng dụng.
+- Đóng gói ứng dụng cùng toàn bộ môi trường chạy giúp đảm bảo tính nhất quán khi triển khai.
+- Hỗ trợ quá trình phát triển, kiểm thử và triển khai trên nhiều môi trường khác nhau.
+- Tăng khả năng mở rộng và tối ưu quy trình DevOps.
 
 #### AWS WAF kết hợp Machine Learning
 
-- Ứng dụng Machine Learning trên AWS WAF nhằm phát hiện sớm và phòng thủ chủ động trước các mẫu tấn công mạng phức tạp.
-- Giới thiệu cách thiết lập rule thông minh trên WAF để tự động chặn các request bất thường mà không cần can thiệp thủ công.
+- Giới thiệu cách kết hợp **AWS WAF** với các mô hình **Machine Learning** để tăng cường bảo mật.
+- Tự động phát hiện các mẫu tấn công bất thường dựa trên dữ liệu.
+- Nâng cao khả năng phòng thủ chủ động cho các ứng dụng triển khai trên AWS.
+- Giảm thiểu rủi ro trước các cuộc tấn công mạng hiện đại.
 
 #### Multiplayer Game Development trên Cloud
 
-- Xây dựng hệ thống game multiplayer thời gian thực sử dụng WebSockets kết nối nhiều Godot client với độ trễ tối thiểu.
-- Thảo luận về việc quản lý trạng thái game trên đám mây khi có nhiều người chơi cùng lúc: đồng bộ hoá dữ liệu và tầm quan trọng của độ trễ thấp.
-
-#### The Art of Effective Teamwork
-
-- Các nguyên tắc giao tiếp và phối hợp hiệu quả giữa các thành viên khi triển khai dự án công nghệ.
-- Phương pháp giải quyết xung đột, phân chia trách nhiệm rõ ràng và duy trì động lực làm việc nhóm.
+- Xây dựng hệ thống **Game Multiplayer** sử dụng **AWS WebSockets**.
+- Kết nối nhiều **Godot Clients** theo thời gian thực.
+- Đồng bộ trạng thái giữa các người chơi với độ trễ thấp.
+- Minh họa khả năng ứng dụng Cloud vào phát triển game trực tuyến.
 
 #### GraphRAG với AWS Neptune
 
-- Tận dụng Graph Database trên AWS Neptune để tăng cường chất lượng truy xuất dữ liệu ngữ cảnh cho các mô hình AI.
-- So sánh hướng tiếp cận của GraphRAG với RAG thông thường: khai thác mối quan hệ giữa các thực thể giúp AI trả lời chính xác và có ngữ cảnh hơn.
+- Giới thiệu **GraphRAG (Graph Retrieval-Augmented Generation)**.
+- Xây dựng **Graph Knowledge** Base bằng dịch vụ **AWS Neptune**.
+- Khai thác dữ liệu đồ thị nhằm nâng cao chất lượng truy xuất thông tin cho AI.
+- Mở rộng khả năng của các hệ thống RAG truyền thống bằng Graph Database.
 
-#### From IT Helpdesk to Senior Sysadmin
+#### Career Journey & Teamwork
 
-- Câu chuyện chuyển dịch thực tế từ vai trò hỗ trợ IT Helpdesk lên Sysadmin/DevOps chuyên nghiệp và các kỹ năng cốt lõi cần chuẩn bị.
-- Gợi mở lộ trình học tập và rèn luyện kỹ năng thực tế cho những ai muốn chuyển hướng sang lĩnh vực hạ tầng và Cloud.
+- Chia sẻ hành trình phát triển từ IT Helpdesk đến Senior Sysadmin và định hướng Cloud/DevOps.
+- Giới thiệu các kỹ năng cần thiết để phát triển trong lĩnh vực Cloud.
+- Hướng dẫn các phương pháp làm việc nhóm hiệu quả trong môi trường kỹ thuật.
+- Nhấn mạnh vai trò của giao tiếp và phối hợp trong quá trình triển khai dự án.
 
-### Bài học rút ra
 
-- **Tư duy & Kỹ năng cá nhân**: Tư duy đóng gói ứng dụng (Container-first) và bảo mật ngay từ đầu (Security-first); hiểu rõ vai trò giao tiếp và lập lộ trình phát triển nghề nghiệp cụ thể để thăng tiến.
-- **Kiến trúc & Công nghệ**: Cách tích hợp AI/ML vào tường lửa bảo mật; giải pháp kết nối real-time qua WebSockets; nắm được mô hình nâng cao hiệu quả sinh văn bản nhờ GraphRAG.
+### Những Gì Học Được
 
-### Kế hoạch hành động & Định hướng
+#### Tư Duy Thiết Kế
 
-- Ứng dụng Docker vào đóng gói các ứng dụng cá nhân để chuẩn hóa môi trường triển khai.
-- Thử nghiệm tích hợp AWS WebSockets cho các bài toán truyền tải dữ liệu thời gian thực.
-- Rèn luyện kỹ năng giao tiếp và cách làm việc nhóm để phối hợp tốt hơn trong các bài tập lớn.
+- **Container-first mindset**: Hiểu được lợi ích của việc container hóa ứng dụng ngay từ giai đoạn phát triển.
+- **Security-first approach**: Bảo mật cần được tích hợp ngay từ đầu thay vì bổ sung sau khi triển khai.
+- Luôn kết hợp giữa Cloud, AI và dữ liệu để xây dựng các giải pháp hiện đại và có khả năng mở rộng.
+
+#### Kiến Trúc Kỹ Thuật
+
+- Hiểu rõ vai trò của **Docker** trong quy trình phát triển và triển khai ứng dụng.
+- Nắm được cách ứng dụng **Machine Learning** vào hệ thống bảo mật thông qua **AWS WAF**.
+- Hiểu cách triển khai các ứng dụng thời gian thực bằng **AWS WebSockets**.
+- Tiếp cận kiến trúc **GraphRAG** và vai trò của **AWS Neptune** trong việc xây dựng hệ thống AI thông minh hơn.
+
+#### Định Hướng Phát Triển
+
+- Hiểu rõ lộ trình phát triển nghề nghiệp từ IT Helpdesk đến Cloud/DevOps.
+- Nhận thức được những kỹ năng kỹ thuật và kỹ năng mềm cần trau dồi để phát triển lâu dài.
+- Học được tầm quan trọng của khả năng làm việc nhóm trong các dự án công nghệ.
+
+### Ứng Dụng Vào Công Việc
+
+- **Triển khai Docker** cho các dự án cá nhân nhằm chuẩn hóa môi trường phát triển và triển khai.
+- **Nghiên cứu AWS WAF kết hợp Machine Learning** để tăng cường khả năng phát hiện các cuộc tấn công bất thường.
+- **Tìm hiểu GraphRAG và AWS Neptune** để xây dựng hệ thống quản lý tri thức phục vụ các ứng dụng AI.
+- **Ứng dụng AWS WebSockets** trong các bài toán yêu cầu giao tiếp thời gian thực như game hoặc chat.
+- Áp dụng các phương pháp làm việc nhóm và kỹ năng giao tiếp để nâng cao hiệu quả phối hợp trong các dự án.
+
+### Trải nghiệm trong event
+
+Tham gia **Event Meetup 06/06/2026** là một trải nghiệm rất hữu ích, giúp tôi tiếp cận nhiều lĩnh vực khác nhau từ Cloud Computing, Containerization, AI, Graph Database đến định hướng phát triển nghề nghiệp trong ngành CNTT. Một số trải nghiệm nổi bật:
+
+#### Học hỏi từ các diễn giả có nhiều kinh nghiệm
+- Các diễn giả đã chia sẻ những kiến thức thực tiễn về **Docker, AWS Security, GraphRAG, Game Development và Cloud/DevOps**.
+- Nội dung được trình bày thông qua nhiều ví dụ thực tế, giúp người tham dự dễ dàng hình dung cách áp dụng vào công việc.
+
+#### Tiếp cận các công nghệ hiện đại
+- Hiểu rõ hơn về quy trình container hóa ứng dụng với Docker và vai trò của công nghệ này trong DevOps.
+- Tìm hiểu cách **Machine Learning** hỗ trợ nâng cao khả năng phát hiện và ngăn chặn tấn công trên **AWS WAF**.
+- Tiếp cận **GraphRAG** và **AWS Neptune**, mở rộng góc nhìn về việc xây dựng hệ thống AI dựa trên dữ liệu đồ thị.
+- Khám phá mô hình xây dựng **Game Multiplayer** trên nền tảng AWS thông qua WebSockets.
+
+#### Định hướng nghề nghiệp và phát triển bản thân
+- Câu chuyện chuyển dịch từ **IT Helpdesk** lên **Senior Sysadmin** giúp tôi hiểu rõ hơn về lộ trình phát triển trong lĩnh vực Cloud/DevOps.
+- Những chia sẻ về kỹ năng mềm và làm việc nhóm giúp tôi nhận ra tầm quan trọng của giao tiếp và phối hợp trong môi trường công nghệ.
+
+#### Kết nối và trao đổi
+- Meetup tạo cơ hội giao lưu với các chuyên gia và những người có cùng định hướng trong lĩnh vực Cloud và AI.
+- Qua các phiên trao đổi, tôi có thêm nhiều góc nhìn về xu hướng công nghệ cũng như các kỹ năng cần chuẩn bị cho công việc trong tương lai.
+
+#### Bài học rút ra
+- Docker là nền tảng quan trọng trong quy trình phát triển và triển khai ứng dụng hiện đại.
+- Việc kết hợp **AI, Machine Learning và Cloud Security** sẽ ngày càng đóng vai trò quan trọng trong bảo vệ hệ thống.
+- **Graph Database** và **GraphRAG** mở ra hướng tiếp cận mới trong việc xây dựng các hệ thống AI có khả năng truy xuất tri thức hiệu quả hơn.
+- Bên cạnh kiến thức kỹ thuật, việc xây dựng lộ trình phát triển nghề nghiệp rõ ràng và rèn luyện kỹ năng làm việc nhóm là những yếu tố quan trọng để phát triển bền vững trong lĩnh vực Cloud và DevOps.
 
 #### Một số hình ảnh khi tham gia sự kiện
-![Ảnh 1](/images/event6th6/z8024132938403_5d2fb8cfe6a6d65155fae1a8ab386723.jpg)
-![Ảnh 2](/images/event6th6/z8024136497270_57e4dc154ac411b848d200ac9d651398.jpg)
-![Ảnh 3](/images/event6th6/z8024137307666_48a8fc472edcc47afe4c515d2e8181d6.jpg)
-![Ảnh 4](/images/event6th6/z8024138107915_18e9446a2bcef3c611c694f76a027a9e.jpg)
-![Ảnh 5](/images/event6th6/z8024140624030_56b419d173ec3ce92beefa56f8ada447.jpg)
+![Ảnh 1](/images/event31.jpg)
+![Ảnh 2](/images/event32.jpg)
+![Ảnh 3](/images/event33.jpg)

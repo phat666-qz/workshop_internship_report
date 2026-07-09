@@ -1,6 +1,6 @@
 ---
 title : "Create SQS Grading Queue"
-date: 2026-07-08
+date : 2026-07-05
 weight : 2
 chapter : false
 pre : " <b> 5.8.2. </b> "

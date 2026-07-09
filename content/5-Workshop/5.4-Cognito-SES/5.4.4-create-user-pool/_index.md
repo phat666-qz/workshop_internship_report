@@ -1,6 +1,6 @@
 ---
 title : "Create Cognito User Pool"
-date: 2026-07-08
+date : 2026-07-05 
 weight : 2
 chapter : false
 pre : " <b> 5.4.4. </b> "

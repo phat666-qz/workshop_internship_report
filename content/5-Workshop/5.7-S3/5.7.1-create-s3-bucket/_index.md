@@ -1,6 +1,6 @@
 ---
 title : "Create S3 Upload Bucket and Configure CORS"
-date: 2026-07-08
+date : 2026-07-05 
 weight : 1
 chapter : false
 pre : " <b> 5.7.1. </b> "

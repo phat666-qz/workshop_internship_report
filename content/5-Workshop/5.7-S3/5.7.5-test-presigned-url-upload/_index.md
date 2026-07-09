@@ -1,6 +1,6 @@
 ---
 title : "Verify Presigned URL Endpoint and S3 Upload"
-date: 2026-07-08
+date : 2026-07-05 
 weight : 5
 chapter : false
 pre : " <b> 5.7.5. </b> "

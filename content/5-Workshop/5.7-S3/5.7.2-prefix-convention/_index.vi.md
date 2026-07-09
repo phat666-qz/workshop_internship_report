@@ -1,6 +1,6 @@
 ---
 title : "Quy ước tiền tố đường dẫn (Prefix) tổ chức file"
-date: 2026-07-08
+date : 2026-07-05 
 weight : 2
 chapter : false
 pre : " <b> 5.7.2. </b> "
